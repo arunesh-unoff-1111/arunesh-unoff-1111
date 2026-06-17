@@ -11,5 +11,5 @@
 
 </td>
   </tr>
-  <tr> <a href="git-stats.png"></a> </tr>
+  <tr> <img href="git-stats.png"> </tr>
 </table>
