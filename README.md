@@ -14,7 +14,7 @@
 
   <tr>
     <td colspan="2" align="center">
-      <img src="git-stats.png" alt="Tech Stack" width="100%">
+      <img src="git-stat.png" alt="Tech Stack" width="100%">
     </td>
   </tr>
 </table>
