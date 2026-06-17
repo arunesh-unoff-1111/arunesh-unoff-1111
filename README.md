@@ -11,10 +11,7 @@
 
 </td>
   </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img src="git-stat.png" alt="Tech Stack" width="100%">
-    </td>
-  </tr>
 </table>
+<p align="center">
+  <img src="./git-stat.png" width="100%" />
+</p>
