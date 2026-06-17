@@ -12,6 +12,7 @@
 </td>
   </tr>
 </table>
+<h3>Tec Stacks In Which I work with :</h3>
 <p align="center">
   <img src="./git-stat.png" width="100%" />
 </p>
