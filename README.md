@@ -12,7 +12,8 @@
 </td>
   </tr>
 </table>
-<h3>Tec Stacks In Which I work with :</h3>
+<h2>🛠️ Technologies I Work With</h2>
+
 <p align="center">
-  <img src="./git-stat.png" width="100%" />
+  <img src="./git-stat.png" alt="Tech Stack" width="100%" />
 </p>
