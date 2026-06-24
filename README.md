@@ -77,7 +77,7 @@
 
 ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=32&textAlignment=horizontal&showText=true)
 ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=32&textAlignment=horizontal&color=%23ffffff&showText=true)
-![kaggle](https://www.readmecodegen.com/api/social-icon?name=kaggle&size=32&color=%231690c0)
+![kaggle](https://www.readmecodegen.com/api/social-icon?name=kaggle&size=36&color=%231690c0)
 
 </td>
 </tr>
