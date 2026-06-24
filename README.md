@@ -13,8 +13,8 @@
 
 <table>
 <tr>
-  <td width="180"><b>LAYERS</b></td>
-  <td width="880"><b>TECHNOLOGIES</b></td>
+  <td width="180" align="center"><b>LAYERS</b></td>
+  <td width="880" align="center"><b>TECHNOLOGIES</b></td>
 </tr>
 <tr>
 <td width="180"><b> Languages</b></td>
