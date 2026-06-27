@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛢️ Tech Stack
 
 <table>
 <tr>
@@ -85,14 +85,13 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats -->
+## 📈 GitHub Stats
 
 <table align="center">
 <tr>
 <td align="center">
 
-<img src="https://ghstats.dev/api/card?username=arunesh-unoff-1111&theme=gruvbox&hide_border=true&custom_title=GitHub+Stats&hide=stars,prs,issues,hours,streak,trend,active_day,avg,contributions" />
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arunesh-unoff-1111&theme=rising-sun&border_radius=4.3" alt="GitHub Streak" /></a>
 </td>
 
 <td align="center">
@@ -101,6 +100,6 @@
 
 </td>
 </tr>
-</table>
 
+</table>
 ---
