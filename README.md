@@ -96,7 +96,7 @@
 
 <td align="center">
 
-<img src="https://ghstats.dev/api/langs?username=arunesh-unoff-1111&theme=gruvbox&hide_border=true&custom_title=Top+Languages&max_langs=12" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arunesh-unoff-1111&theme=dark" alt="GitHub Streak" /></a>
 
 </td>
 </tr>
