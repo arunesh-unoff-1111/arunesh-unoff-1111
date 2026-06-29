@@ -91,12 +91,14 @@
 <tr>
 <td align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arunesh-unoff-1111&theme=rising-sun&border_radius=4.3" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arunesh-unoff-1111&theme=dark" alt="GitHub Streak" /></a>
+
 </td>
 
 <td align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arunesh-unoff-1111&theme=dark" alt="GitHub Streak" /></a>
+<img src="https://ghstats.dev/api/langs?username=arunesh-unoff-1111&theme=gruvbox&hide_border=true&custom_title=Top+Languages&max_langs=12" />
+
 
 </td>
 </tr>
