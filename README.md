@@ -4,6 +4,12 @@
 
 ### Pre Professional SWE in : Cognitive Computing | Web Devlopment | Web3
 
+<div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
+  <a href="https://readmecodegen.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: fit-content;">
+    <img src="https://readmecode-pdf.onrender.com/api/badge/user_mr0pn5k9_go83y0?style=style1&bg=%233e5f3a" alt="Visitor Badge" style="display: block; max-width: 100%; height: auto;" />
+  </a>
+</div>
+
 
 </div>
 
