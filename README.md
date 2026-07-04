@@ -4,11 +4,6 @@
 
 ### Pre Professional SWE in : Cognitive Computing | Web Devlopment | Web3
 
-<<<<<<< HEAD
-
-=======
->>>>>>> f962b80 (readme md updated)
-
 </div>
 
 ---
