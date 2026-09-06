@@ -2,7 +2,7 @@
 
 # Hey, I'm ARUNESH 👋
 
-### Pre Professional SWE in : Cognitive Computing | Web Engineering | Web3
+### Building In : AI-ML | Web Engineering | Web3
 
 </div>
 
